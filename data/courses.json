@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Data Structures",
+      "image": "https://img.freepik.com/free-vector/big-data-analytics-flowchart_1284-32903.jpg?w=2000",
+      "description": "Our Data Structure course covers all topics of Data Structure such as Array, Pointer, Structure, Linked List, Stack, Queue, Graph, Searching, Sorting, Programs, etc. Our Data Structure course is designed for beginners and professionals.Data Structure is a way to store and organize data so that it can be used efficiently.The data structure name indicates itself that organizing the data in memory. There are many ways of organizing the data in the memory as we have already seen one of the data structures, i.e., array in C language. Array is a collection of memory elements in which data is stored sequentially, i.e., one after another. In other words, we can say that array stores the elements in a continuous manner. This organization of data is done with the help of an array of data structures. There are also other ways to organize the data in memory. Let's see the different types of data structures.",
+      "rating": 4
+    },
+    {
+      "id": "2",
+      "name": "Algorithms",
+      "image": "https://www.cs.tufts.edu/comp/160/algo_picture.png",
+      "description": "This course covers the essential information that every serious programmer needs to know about algorithms with emphasis on applications and scientific performance analysis.Algorithms are a set of instructions for how to solve a problem. They appear in mathematics, computer science, and data structures. It's a set of rules that governs a process provides step by step instructions for performing that process. Although we've had mathematical algorithms for centuries, algorithms are now the central figures of computer science. Algorithms now mimic the neural networks of the human brain in artificial intelligence and deep learning. Computer programming is on the edge of solving some of humanity's most pressing issues, and algorithmic knowledge gives you insight into those innovations.",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "name": "Database Management System",
+      "image": "https://www.mycslab.in/wp-content/uploads/2020/01/database-management-system.jpg",
+      "description": "Our DBMS Course provides basic and advanced concepts of Database.Database management system is software that is used to manage the database.Our course includes all topics of DBMS such as introduction, ER model, keys, relational model, join operation, SQL, functional dependency, transaction, concurrency control, etc.The database is a collection of inter-related data which is used to retrieve, insert and delete the data efficiently. It is also used to organize the data in the form of a table, schema, views, and reports, etc.",
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "name": "Software Engineering",
+      "image": "https://www.researchgate.net/publication/342457338/figure/fig2/AS:907696614150147@1593423145738/The-keywords-of-the-software-engineering.png",
+      "description": "Software Engineering provides a standard procedure to design and develop a software.Our Software Engineering course provides basic and advanced concepts of Software Engineering.Course contains all the topics of Software Engineering like Software Engineering Models, Software Development Life Cycle, Requirement Engineering, Software Design tools, Software Design Strategies, Software Design levels, Software Project Management, Software Management activities, Software Management Tools, Software Testing levels, Software Testing approaches, Quality Assurance Vs. Quality control, Manual Testing, Software Maintenance, Software Re-engineering and Software Development Tool such as CASE Tool.The software is a collection of integrated programs.Software subsists of carefully-organized instructions and code written by developers on any of various particular computer languages.Computer programs and related documentation such as requirements, design models and user manuals.",
+      "rating": 4
+    },
+    {
+      "id": "5",
+      "name": "Computer Networks",
+      "image": "https://sbs.ac.in/wp-content/uploads/2021/10/1e8cbf66-5dff-4541-a9ab-cdac7147f816.png",
+      "description": "Our Computer Network course try to cover all topics of Computer Network such as introduction, features, types of computer network, architecture, hardware, software, internet, intranet, website, LAN, WAN, etc.A computer network is a set of devices connected through links. A node can be computer, printer, or any other device capable of sending or receiving the data. The links connecting the nodes are known as communication channels.Computer Network uses distributed processing in which task is divided among several computers. Instead, a single computer handles an entire task, each separate computer handles a subset.",
+      "rating": 4
+    },
+    {
+      "id": "6",
+      "name": "Artifical Intelligence",
+      "image": "https://www.srimax.com/wp-content/uploads/2020/01/Importance-of-Artificial-Intelligence.jpeg",
+      "description": "In today's world, technology is growing very fast, and we are getting in touch with different new technologies day by day.The Artificial Intelligence course provides an introduction to AI which will help you to understand the concepts behind Artificial Intelligence. In this course, we have also discussed various popular topics such as History of AI, applications of AI, deep learning, machine learning, natural language processing, Reinforcement learning, Q-learning, Intelligent agents, Various search algorithms, etc.Here, one of the booming technologies of computer science is Artificial Intelligence which is ready to create a new revolution in the world by making intelligent machines.The Artificial Intelligence is now all around us. It is currently working with a variety of subfields, ranging from general to specific, such as self-driving cars, playing chess, proving theorems, playing music, Painting, etc.",
+      "rating": 5
+    }
+]
